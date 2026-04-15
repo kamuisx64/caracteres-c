@@ -12,7 +12,7 @@ void main()
 
     for (i = 0; i < 256; i++)
     {
-        printf("%d\n", lista[i]);
+        printf("%c\n", lista[i]);
     }
 
     printf("Made by Davi Sales");
